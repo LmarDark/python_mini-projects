@@ -3,5 +3,5 @@
 
 # My Mini Projects in Python
 
-
+> This project is being done with the objective of learning, with full focus on improving my understanding of Pytr
 
